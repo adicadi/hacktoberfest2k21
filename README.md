@@ -19,7 +19,7 @@
 #### 📜 Instructions for making the changes
 ## 1. Editing the Code
 
-Add your `Full name` and `GitHub Username` in the `list[]` given in `user/contributors.json`
+Add your `Full name` and `GitHub Username` in the `JSON file` given in `user/contributors.json`
 
 *Note: Don't remove or delete already added attendee, in case you did something like this PR won't be accepted :)*
 
