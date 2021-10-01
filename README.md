@@ -29,7 +29,7 @@ Example Code:
   // < Add your Full Name and Github Username >
     {
     "fname": "Aditya Chaudhary",
-    "username": "adicadi",
+    "username": "adicadi"
     }
 ```
 ## 2. Wait for Pull Request to be Labelled
