@@ -1,26 +1,26 @@
 [
-    {
-        "name": "Aditya Chaudhary",
-        "username": "adicadi"
-    },
-    {
+  {
+    "name": "Aditya Chaudhary",
+    "username": "adicadi"
+  },
+  {
     "fname": "Yash Garg",
     "username": "ygarg704"
-    },
-    {
+  },
+  {
     "fname": "Rahul Mishra",
     "username": "beingmishra"
-    },
-    {
-        "fname": "Mautik Donda",
-        "username": "MautikDonda"
-    },
-    {
-        "fname": "Aman Dutt",
-        "username": "adgamerx"
-    }
-    {
+  },
+  {
+    "fname": "Mautik Donda",
+    "username": "MautikDonda"
+  },
+  {
+    "fname": "Aman Dutt",
+    "username": "adgamerx"
+  },
+  {
     "fname": "John Ivan",
     "username": "ANormalStick"
-    },
+  }
 ]
