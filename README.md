@@ -1,5 +1,5 @@
 # hacktoberfest2k21
- This is a beginner-friendly repo for everyone participating in Hacktoberfest2021. Raise genuine Pull Request and they will be merged quickly!
+ This repository is a beginner-friendly repo for everyone participating in Hacktoberfest2021. Raise genuine Pull Requests, and those requests will get merged quickly!
 
 
 ### This project is perfect for your first pull request
@@ -8,9 +8,9 @@
 
 - Fork this Repository using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
-- Create a new branch for your modifications (ie. `git checkout -b new-user`)
+- Create a new branch for your modifications (i.e. `git checkout -b new-user`)
 - Add your files (`git add .`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request with label
+- Create a pull request with a label
 
 <br> 
 
@@ -21,7 +21,7 @@
 
 Add your `Full name` and `GitHub Username` in the `JSON file` given in `user/contributors.json`
 
-*Note: Don't remove or delete already added attendee, in case you did something like this PR won't be accepted :)*
+*Note: Don't remove or delete an already added attendee; in case you did something like this, PR won't be accepted :)*
 
 Example Code:
 ```json
