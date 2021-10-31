@@ -1,5 +1,5 @@
 # hacktoberfest2k21
- This repository is a beginner-friendly repo for everyone participating in Hacktoberfest2021. Raise genuine Pull Requests, and those requests will get merged quickly!
+ This repository is a beginner-friendly repository for everyone participating in Hacktoberfest2021. Raise genuine Pull Requests, and those requests will get merged quickly!
 
 
 ### This project is perfect for your first pull request
